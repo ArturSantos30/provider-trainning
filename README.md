@@ -1,2 +1,2 @@
 # provider-trainning
-Studying Provider
+Simple counter app to study provider
